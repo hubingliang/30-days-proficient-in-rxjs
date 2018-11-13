@@ -17,7 +17,7 @@
 
 > 
 > 
-> forEach 是 JavaScript 在 ES5 后，原生就有支援的方法。
+> forEach 是 JavaScript 在 ES5 后，原生就有支持的方法。
 > 
 > 
 
